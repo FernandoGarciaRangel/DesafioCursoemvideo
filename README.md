@@ -1,3 +1,3 @@
 # Desafio criado para o módulo 1, do curso em vídeo
 ***
-**[Desafio]( https://fernandogarciarangel.github.io/DesafioCursoemvideo/ target="_blank")**
+**[Desafio]( https://fernandogarciarangel.github.io/DesafioCursoemvideo/)**
